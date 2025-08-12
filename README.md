@@ -1,16 +1,25 @@
-## Hi there 👋
+# 👋 Olá, eu sou o Iago Allan
 
-<!--
-**Iagallan/Iagallan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 💡 Sobre mim
+- 🔧 Técnico em Redes de Computadores
+- 💼 Responsável por infraestrutura de redes e suporte técnico
+- 🎓 Cursando Análise e Desenvolvimento de Sistemas
+- 🌐 Entusiasta de tecnologia, automação e soluções práticas em TI
+- 📍 Brasil
 
-Here are some ideas to get you started:
+## 🚀 Interesses
+- Infraestrutura de redes
+- Segurança da informação
+- Desenvolvimento back-end
+- Automação de processos
+- Cloud Computing
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📈 Objetivos
+Busco sempre integrar meus conhecimentos em infraestrutura com o desenvolvimento de sistemas, criando soluções completas e eficientes.
+
+## 📫 Contato
+- **LinkedIn:** [Iago Allan]()
+- **E-mail:** iago-allan@hotmail.com
+
+---
+⭐️ _"Sempre aprendendo, sempre evoluindo."_  
