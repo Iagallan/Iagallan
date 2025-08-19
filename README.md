@@ -18,7 +18,7 @@
 Busco sempre integrar meus conhecimentos em infraestrutura com o desenvolvimento de sistemas, criando soluções completas e eficientes.
 
 ## 📫 Contato
-- **LinkedIn:** [Iago Allan]()
+- **LinkedIn:** [Iago Allan]( https://www.linkedin.com/in/iago-allan-3628601bb/)
 - **E-mail:** iago-allan@hotmail.com
 
 ---
